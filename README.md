@@ -1,2 +1,2 @@
 # hello-world
-a new repository
+This is a new repository by squidmoreno.
